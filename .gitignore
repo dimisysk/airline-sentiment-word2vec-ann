@@ -13,6 +13,9 @@ __pycache__/
 .idea/
 .vscode/
 
+# Notebooks
+notebooks/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -30,6 +33,5 @@ dist/
 
 # Generated plots / exported files
 *.png
-
 
 airline_sentiment_classification_word2vec_ann.py
