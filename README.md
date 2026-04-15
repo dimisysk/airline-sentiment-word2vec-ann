@@ -59,7 +59,7 @@ project-1/
 
 
 
-## 🔧 Installation
+##  Installation
 
 
 ```bash
@@ -100,7 +100,7 @@ Each tweet is represented as the average of its word embeddings.
 
 ---
 
-## 🤖 Model
+##  Model
 
 The classifier is a feed-forward neural network consisting of:
 
@@ -121,7 +121,7 @@ The classifier is a feed-forward neural network consisting of:
 
 ---
 
-## 📊 Results
+##  Results
 
 - Accuracy: ~0.63–0.65  
 - Weighted F1-score: ~0.65  
