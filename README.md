@@ -134,13 +134,6 @@ The model achieves reasonable performance given:
 
 
 
-##  Results
-
-- Accuracy: ~0.63–0.65  
-- Weighted F1-score: ~0.65  
-
-The model achieves balanced performance across all sentiment classes after applying class weighting.
-
 
 ---
 
